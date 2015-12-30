@@ -56,4 +56,5 @@ Any file contained in this repo may be distributed freely.
 | 507 |                                      |
 | 508 | 流れ星キセキ                           |
 | 509 | Snow Wings                           |
+| 510 | ゴキゲンParty Night                    |
 
