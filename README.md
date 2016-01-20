@@ -46,12 +46,16 @@ Any file contained in this repo may be distributed freely.
 | 038 |                                      |
 | 039 |                                      |
 | 040 | Naked Romance                        |
+| 041 |                                      |
+| 042 |                                      |
+| 043 |                                      |
+| 044 | Angel Breeze                         |
 |||
 | 501 | アタシポンコツ アンドロイド                  |
 | 502 | Nation Blue                          |
 | 503 | Orange Sapphire                      |
 | 504 | 夢色ハーモニー                          |
-| 505 |                                      |
+| 505 | パステルピンクな恋                        |
 | 506 |                                      |
 | 507 |                                      |
 | 508 | 流れ星キセキ                           |
