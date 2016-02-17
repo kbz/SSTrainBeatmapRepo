@@ -55,7 +55,7 @@ Any file contained in this repo may be distributed freely.
 | 047 | ゴキゲンParty Night [COOL]             |
 | 048 | ゴキゲンParty Night [PASSION]          |
 | 049 |                                      |
-| 050 | ゴキゲンParty Night [ALL] - Ver. 15    |
+| 050 | ゴキゲンParty Night [ALL]* - Ver. 15    |
 | 051 | アップルパイ・プリンセス                     |
 | 052 | エヴリデイドリーム                        |
 | 053 |                                      |
