@@ -43,13 +43,24 @@ Any file contained in this repo may be distributed freely.
 | 035 | Trancing Pulse                       |
 | 036 | M@GIC☆                              |
 | 037 | TOKIMEKI エスカレート                   |
-| 038 |                                      |
+| 038 | 夢色ハーモニー*                         |
 | 039 |                                      |
 | 040 | Naked Romance                        |
-| 041 |                                      |
-| 042 |                                      |
-| 043 |                                      |
+| 041 | アタシポンコツ アンドロイド*                 |
+| 042 | Nation Blue*                         |
+| 043 | Orange Sapphire*                     |
 | 044 | Angel Breeze                         |
+| 045 | 流れ星キセキ*                          |
+| 046 | ゴキゲンParty Night [CUTE]             |
+| 047 | ゴキゲンParty Night [COOL]             |
+| 048 | ゴキゲンParty Night [PASSION]          |
+| 049 |                                      |
+| 050 | ゴキゲンParty Night [ALL] - Ver. 15    |
+| 051 | アップルパイ・プリンセス                     |
+| 052 | エヴリデイドリーム                        |
+| 053 |                                      |
+| 054 | Tulip*                               |
+| 055 | Snow Wings*                          |
 |||
 | 501 | アタシポンコツ アンドロイド                  |
 | 502 | Nation Blue                          |
@@ -60,5 +71,7 @@ Any file contained in this repo may be distributed freely.
 | 507 |                                      |
 | 508 | 流れ星キセキ                           |
 | 509 | Snow Wings                           |
-| 510 | ゴキゲンParty Night                    |
+| 510 | ゴキゲンParty Night [ALL] - Ver. 5     |
+| 511 | Tulip                                |
 
+Items tagged with a '*' are the same as their event counterparts.
